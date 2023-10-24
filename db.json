@@ -1,0 +1,78 @@
+{
+  "projectsdetail": [
+    { "id": 1,
+    "judul": "A Space For The Unbound",
+    "deskripsi": "A Space For The Unbound is a slice-of-life adventure game that tells a story about overcoming anxiety, depression, and the relationship between a boy and a girl with supernatural powers.",
+    "terbit" :"19 January 2023",
+    "gambar" : "header-slider-asftu.png",
+    "gambar1":"sCR-1.webp",
+    "gambar2":"sCR-6.webp",
+    "video" : "https://www.youtube.com/embed/8yGznOkpIGM?si=7YGCiCUkGAJkjGL6",
+    "baris1" : "A Space For The Unbound is a slice-of-life adventure game that tells a story about overcoming anxiety, depression, and the relationship between a boy and a girl with supernatural powers.",
+    "baris2" : "Follow two high school sweethearts, Atma and Raya, on a journey of self-discovery at the end of their high school years. When a mysteriously supernatural power is suddenly unleashed threatening their existence, they must explore and investigate their town to uncover hidden secrets, face the end of the world, and perhaps learn more about each other.",
+    "baris3" : "Set in a small town inspired by 90s era rural Indonesia, A Space for The Unbound presents an endearing story-driven experience with a vibrant environment waiting to be explored."  
+  },
+    { "id": 2,
+    "judul": "Coffee Talk",
+    "terbit" :"29 January 2020",
+    "deskripsi": "Coffee Talk is a game about listening to people’s problems and help them by serving a warm drink out of the ingredients you have. It is a game that tries to depict our lives as humanly as possible while having a cast that is more than just humans.",
+    "gambar" : "header-slider-coffee.png",
+    "gambar1":"Coffee-Talk-Screenshot-2.webp",
+    "gambar2":"Screenshot-2019-04-02-15.24.31.webp",
+    "video" : "https://www.youtube.com/embed/WA1lEU_zTCw?si=QzoNFr7-2tFNLS80",
+    "baris1" : "Coffee Talk is a game about listening to people’s problems and help them by serving a warm drink out of the ingredients you have. It is a game that tries to depict our lives as humanly as possible while having a cast that is more than just humans.",
+    "baris2" : "Developed and published by Toge Productions, the game was inspired by the calm feelings of drinking warm drinks in the middle of a cold rainy night, alone or accompanied by friends. The game features visual aesthetics that are inspired by 90s anime, classic pixel art adventure games, and the chill imageries often associated with lo-fi chillhop music.",
+    "baris3" : "Immerse yourself in the stories of alternative Seattle inhabitants, from the dramatic love story between an elf and a succubus, an alien journey trying to understand human’s life, and many other stories that we might be able to relate a lot."  
+    },
+    { "id": 3,
+    "judul": "Necronator: Dead Wrong",
+    "deskripsi": "The Necronator and his army of darkness have returned! Gather your army and prepare for battle, once again war is upon us! Collect and power up undead units to deploy onto the field in exciting, fast-paced lane defense RTS combat.",
+    "gambar" : "header-slider-necro.png",
+    "gambar1":"8.webp",
+    "gambar2":"9.webp",
+    "video" : "https://www.youtube.com/embed/0MxKqtDAuc4?si=cv65gaUi2RlE4T9a",
+    "baris1" : "The Necronator and his army of darkness have returned! Gather your army and prepare for battle, once again war is upon us!",
+    "baris2" : "Collect and power up undead units to deploy onto the field in exciting, fast-paced lane defense RTS combat. There are over 20 units, each with upgradeable powers and synergies with other units. Refine and swap out units in a deck-building-style meta-game.",
+    "baris3" : "Become one of several distinct commanders, each with powerful spells and a unique unit. The commanders all have their own reasons for seeking the Necronator, and their stories unfold in different single-player narrative campaigns, co-written by Fallen London writer Chandler Groover."  
+    
+  }
+  ],
+  "developer":[
+    {
+      "id":1,
+      "nama": "Joen Le Fox",
+      "tag":"@joentnt",
+      "jabatan":"Project Manager",
+      "gambar":"joen.png",
+      "deskripsi": "Technology, Art, & Business Enthusiast",
+      "facebook":"https://www.facebook.com",
+      "instagram":"https://www.instagram.com",
+      "twitter":"https://www.twitter.com",
+      "linkedin":"https://www.linkedin.com"
+    },
+    {
+      "id":2,
+      "nama": "Kitimaru (Radjartha)",
+      "tag":"@kitimaru",
+      "jabatan":"Website Developer",
+      "gambar":"kiti.webp",
+      "deskripsi": "24/7 With Coffee & Exploit Database",
+      "facebook":"https://www.facebook.com",
+      "instagram":"https://www.instagram.com/kitimaru28k/",
+      "twitter":"https://www.twitter.com",
+      "linkedin":"https://www.linkedin.com"
+    },
+    {
+      "id":3,
+      "nama": "Joen Le Fox",
+      "tag":"@joentnt",
+      "jabatan":"Project Manager",
+      "gambar":"joen.png",
+      "deskripsi": "Technology, Art, & Business Enthusiast",
+      "facebook":"https://www.facebook.com",
+      "instagram":"https://www.instagram.com",
+      "twitter":"https://www.twitter.com",
+      "linkedin":"https://www.linkedin.com"
+    }
+  ]
+}
