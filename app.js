@@ -7,7 +7,7 @@ const app = express();
 
 
 // Define a route to handle GET requests
-
+app.use(cors());
 
 app.get("/projectsdetail", (req, res) => {
   res.json(db.projectsdetail);
