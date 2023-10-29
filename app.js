@@ -15,10 +15,9 @@ app.get('/projectsdetail/:id', (req, res) => {
   const projectDetail = db.projectsdetail[projectId - 1 ]; // Assuming 'db.projectsdetail' is an array or object containing project details
 
   if (projectDetail) {
-    res.json(projectDetail); // Send the project detail as JSON response
-  } else {
-    res.status(404).json({ error: 'Project not found' }); // Send a 404 error if project is not found
-  }
+    res.json(projectDetail);
+    return;
+  };
 });
 
 
